@@ -10,9 +10,9 @@ Quick and easy Web UI Automation from scratch with Cypress 5 - a modern JavaScri
 # Start project
 ```sh
 git clone https://github.com/Postavshik/ngx-cypress-test
-### npm install
-### npm start
-### open http://localhost:4200
+npm install
+npm start
+open http://localhost:4200
 ```
 
 # Cypress installation
